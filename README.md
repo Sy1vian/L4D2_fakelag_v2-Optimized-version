@@ -26,5 +26,5 @@ sm_printlag  Print Current FakeLag
 
 ## README
 ```text
-懂不懂含金量呀
+如果你有问题或建议请附上详细的log
 ```
