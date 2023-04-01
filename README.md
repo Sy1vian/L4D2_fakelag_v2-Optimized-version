@@ -21,10 +21,10 @@
 
 ```控制台输入
 <v2版 只有管理员才能使用>  
-sm_fakelag  <昵称> <延迟>  Set fake lag for a player  
+sm_fakelag "昵称" "延迟"  Set fake lag for a player  
 sm_printlag  Print Current FakeLag  
 <0.9版 所有人都可以使用>  
-sm_ci <昵称> <延迟>  增加的延迟+原本延迟=最终延迟,请计算好余量  
+sm_ci "昵称" "延迟"  增加的延迟+原本延迟=最终延迟,请计算好余量  
 sm_ciall  查看当前所有使用珠宝Fakelg的玩家延迟
 ```
 
